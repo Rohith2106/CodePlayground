@@ -53,7 +53,7 @@ A Full-stack code runner web application that allows users to write, execute, an
     ```bash
     npm run dev
     ```
-    > The frontend will be running on `http://localhost:5173`.
+    > The frontend will be running on `http://localhost:3000`.
 
 ---
 
